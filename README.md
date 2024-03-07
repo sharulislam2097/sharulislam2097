@@ -43,8 +43,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharulislam2097&show_icons=true&locale=en&layout=compact" alt="sharulislam2097" /></p> <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharulislam2097&show_icons=true&locale=en" alt="sharulislam2097" /></p> <br>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharulislam2097&show_icons=true&locale=en&layout=compact" alt="sharulislam2097" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharulislam2097&show_icons=true&locale=en" alt="sharulislam2097" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharulislam2097&" alt="sharulislam2097" /></p>
