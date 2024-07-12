@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>Improving logic building | problem solving<br><br>🌱 I’m currently learning<br>Data Structures | Algorithm<br><br>💬 Ask me about<br>JAVA | DSA | Frontend Development<br>
+🔭 I’m currently working on <br>Improving logic building | MERN Stack<br><br>🌱 I’m currently learning<br>MERN Stack Backend<br><br>💬 Ask me about<br>Javascript | Frontend Development<br>
 
 
 ## 🌐 Socials:
